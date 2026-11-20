@@ -14,5 +14,13 @@ export default function App()
 
 
 
-
+  return(
+    <div>
+      <center>
+        <h1>Welcome to React !</h1>
+        <h4>Count:{count} </h4>
+        <button onClick={fun}>Add</button>
+      </center>
+    </div>
+  )
 }
