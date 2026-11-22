@@ -4,7 +4,7 @@ import React,{useState} from "react";
 export default function App()
 {
 
-  let [count,setcount] = useState(0)
+ 
 
   function fun()
   {
